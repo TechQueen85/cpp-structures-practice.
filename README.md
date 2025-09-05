@@ -44,15 +44,15 @@ Each concept is explained through commented examples, making it easier for begin
    ```bash
    g++ structs.cpp -o structs
    ./structs
-Since the file has multiple independent code blocks:
+Since the file has **multiple independent code blocks**:
 
-Uncomment the section you want to test
+- Uncomment the section you want to test  
+- Recompile and run again
+  
+---
 
-Recompile and run again
+## 📝 Notes
 
-📝 Notes
-Focuses on C++ structures, from basic to advanced concepts.
-
-Designed as a step-by-step practice file with comments for self-learning.
-
-Best suited for students and beginners who want to strengthen their understanding of C++ structures.
+- Focuses on **C++ structures**, from basic to advanced concepts.  
+- Designed as a **step-by-step practice file** with comments for self-learning.  
+- Best suited for **students and beginners** who want to strengthen their understanding of C++ structures.  
