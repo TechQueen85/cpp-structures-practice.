@@ -53,6 +53,9 @@ Recompile and run again
 
 📝 Notes
 This file is meant purely for practice and learning, not production code.
+
 It covers both fundamental and advanced uses of structures in C++.
+
 Code is commented for easy understanding.
+
 🧑‍💻 Useful for students and beginners who want to strengthen their understanding of C++ structures.
