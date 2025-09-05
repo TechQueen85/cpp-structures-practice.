@@ -55,4 +55,4 @@ Since the file has **multiple independent code blocks**:
 
 - Focuses on **C++ structures**, from basic to advanced concepts.  
 - Designed as a **step-by-step practice file** with comments for self-learning.  
-- Best suited for **students and beginners** who want to strengthen their understanding of C++ structures.  
+- Best suited for **students and beginners** who want to strengthen their understanding of C++ Structures.  
