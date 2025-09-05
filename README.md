@@ -1,4 +1,3 @@
-
 # 🔹 C++ Structures Practice
 
 This repository contains a single C++ file (`structs.cpp`) that covers **structures in C++** with detailed comments and examples for learning purposes.
@@ -45,17 +44,15 @@ Each concept is explained through commented examples, making it easier for begin
    ```bash
    g++ structs.cpp -o structs
    ./structs
-Since the file has multiple independent code blocks,
+Since the file has multiple independent code blocks:
 
 Uncomment the section you want to test
 
 Recompile and run again
 
 📝 Notes
-This file is meant purely for practice and learning, not production code.
+Focuses on C++ structures, from basic to advanced concepts.
 
-It covers both fundamental and advanced uses of structures in C++.
+Designed as a step-by-step practice file with comments for self-learning.
 
-Code is commented for easy understanding.
-
-🧑‍💻 Useful for students and beginners who want to strengthen their understanding of C++ structures.
+Best suited for students and beginners who want to strengthen their understanding of C++ structures.
